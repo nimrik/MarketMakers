@@ -564,7 +564,7 @@ li {
           transform: translateY(-0.188rem);
 }
 
-@media only screen and (max-device-width: 1024px) {
+@media only screen and (max-device-width: 1280px) {
   
   .container__textfield {
     width: 40%;
